@@ -1,6 +1,5 @@
 ### 📜 **README.md**
 
-```md
 # 📂 Automated Report Processing
 
 This script automates the process of organizing and managing reports by moving files from a source folder to a processed folder. It also collects useful details about each file, such as size and creation date.
