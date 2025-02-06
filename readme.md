@@ -91,7 +91,6 @@ This script includes built-in safeguards to prevent issues:
 ## 🏆 Want to Contribute?
 Feel free to improve this script! Fork the repository and submit a pull request. 🚀
 
----
 
 ## 📄 License
 This project is licensed under the **MIT License** – you can use and modify it freely.
